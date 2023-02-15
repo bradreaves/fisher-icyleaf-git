@@ -23,6 +23,7 @@ See the [Source](conf.d/git.fish) for a list of aliases and functions provided b
 
 [mit]:            https://opensource.org/licenses/MIT
 [icyleaf]:        https://github.com/icyleaf
+[icyleaf-git]:        https://github.com/icyleaf/fish-pkg-git
 [brad]:	          https://bradreaves.net
 [wahoo-link]:     https://github.com/wa/wahoo
 [omf-link]:       https://www.github.com/oh-my-fish/oh-my-fish
