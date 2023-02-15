@@ -18,7 +18,7 @@ See the [Source](conf.d/git.fish) for a list of aliases and functions provided b
 
 # License
 
-[MIT][mit] © [Brad Reaves][author]
+[MIT][mit] © [Brad Reaves][brad]
 
 
 [mit]:            https://opensource.org/licenses/MIT
@@ -32,3 +32,4 @@ See the [Source](conf.d/git.fish) for a list of aliases and functions provided b
 [omz-git-link]:	  https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git
 [omz-link]:	  https://github.com/ohmyzsh/ohmyzsh
 [fisher-link]:	  https://github.com/jorgebucaran/fisher
+
